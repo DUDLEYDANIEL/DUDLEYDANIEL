@@ -1,3 +1,5 @@
+
+```assemby
 section .intro                 
     db "Hello, World! I'm Dudley Daniel Raj.", 0   
     db "Welcome to my GitHub profile!", 0
@@ -27,9 +29,4 @@ section .connect               ; Connect with Me
 section .end                   ; End of ReadMe
     db "Thanks for visiting my GitHub profile!", 0
     int 0x20                   ; Exit 
-
-
-<!---
-DUDLEYDANIEL/DUDLEYDANIEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
