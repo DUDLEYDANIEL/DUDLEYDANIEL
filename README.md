@@ -1,4 +1,3 @@
-w
 ```assemby
 section .intro                 
     db "Hello, World! I'm Dudley Daniel Raj.", 0   
