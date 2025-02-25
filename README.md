@@ -1,4 +1,4 @@
-
+w
 ```assemby
 section .intro                 
     db "Hello, World! I'm Dudley Daniel Raj.", 0   
@@ -6,7 +6,7 @@ section .intro
 
 section .about_me              
     db "Occupation: Cybersecurity Enthusiast, red Teamer, CTF player", 0
-    db "Current Distro: Black Arch Linux", 0
+    db "Current Distro: Kali Linux", 0
     db "Skills: Incident Response, Vulnerability Analysis, Assembly (NASM), Malware Analysis(studying) ", 0
     db "Learning: Machine Learning for Firewall Projects", 0 ; Trying to code it
     
@@ -20,7 +20,7 @@ section .projects              ; Projects Section
     db "Projects:", 0
     db "- 'Cyber Practice projects': A project for the remote code dll injection", 0
     db "- 'snake-game-asm': coding an snake game in boot sector using asm, 0
-    db "- 'NetForgeSuite': implementing the network related packet crafting interating low level", 0
+    db "- 'Active directory pentesting simulation", 0
 
 section .connect               ; Connect with Me
     db "LinkedIn: https://www.linkedin.com/in/dudley-daniel-raj-473a22276/", 0
