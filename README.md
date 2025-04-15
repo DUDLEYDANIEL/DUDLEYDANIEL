@@ -6,7 +6,7 @@ section .intro
 section .about_me              
     db "Occupation: Cybersecurity Enthusiast, red Teamer, CTF player", 0
     db "Current Distro: Kali Linux", 0
-    db "Skills: Incident Response, Vulnerability Analysis, Assembly (NASM), Malware Analysis(studying) ", 0
+    db "Skills: Bug Bounty, Vulnerability Analysis, Assembly (NASM), Malware Analysis(studying) ", 0
     db "Learning: Machine Learning for Firewall Projects", 0 ; Trying to code it
     
 section .skills                ; Technologies I Work With
@@ -18,7 +18,7 @@ section .skills                ; Technologies I Work With
 section .projects              ; Projects Section
     db "Projects:", 0
     db "- 'Cyber Practice projects': A project for the remote code dll injection", 0
-    db "- 'snake-game-asm': coding an snake game in boot sector using asm, 0
+    db "- 'Garbage collector in C', 0
     db "- 'Active directory pentesting simulation", 0
 
 section .connect               ; Connect with Me
